@@ -1,4 +1,4 @@
-baseURL = "http://avietrov.github.io/"
+baseURL = "https://avietrov.github.io/"
 languageCode = "en-us"
 title = "Anton Vietrov's Blog"
 theme = "cactus"
