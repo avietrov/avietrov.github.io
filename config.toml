@@ -52,8 +52,8 @@ weight = 4
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
-  showProjectsList = true # show projects list by default (if projects data file exists).
-  projectsUrl = "https://github.com/gohugoio" # title link for projects list
+  showProjectsList = false # show projects list by default (if projects data file exists).
+  projectsUrl = "https://github.com/avietrov" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
   dateFormat = "2006-01-02" # default
@@ -70,10 +70,7 @@ weight = 4
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/gohugoio"
+    link = "https://github.com/avietrov"
   [[params.social]]
     name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
-  [[params.social]]
-    name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    link = "https://www.linkedin.com/in/vietrov"
